@@ -1,0 +1,91 @@
+body {
+    background-image: linear-gradient(to left, #2a2a2a, #7360bf);
+    font-family: aristotle;
+    font-weight: bolder;
+}
+
+h1, h2 {
+    font-family: bubbleFont;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.inbox-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    width: 60vw;
+}
+
+.chat-preview:hover {
+    background-color: rgb(255, 255, 96);
+    cursor: pointer;
+    transform: scale(1.15);
+    transition: 0.5s ease;
+}
+
+.chat-preview {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 80vw;
+    max-width: 500px;
+}
+
+.chat-preview a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chat-preview section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile-picture {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    overflow: hidden;
+}
+
+.profile-picture img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.profile-picture:hover {
+    transform: scale(1.25);
+    transition: ease;
+}
+
+.message-preview {
+    flex: 1;
+}
+
+.message-preview h3 {
+    margin: 0;
+    font-size: 16px;
+    color: #777;
+}
+
+.message-preview p {
+    margin: 5px 0 0 0;
+    font-size: 14px;
+    color: #777;
+}

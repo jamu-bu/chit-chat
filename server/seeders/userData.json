@@ -1,0 +1,43 @@
+[
+    {
+        "fullname": "William",
+        "username": "codeGod",
+        "email": "w@g.com",
+        "password": "12345678",
+        "photo": "/profile-pics/gamer.png",
+        "bio": "I am a coding god."
+    },
+    {
+        "fullname": "Eric",
+        "username": "styleGod",
+        "email": "e@l.com",
+        "password": "12345678",
+        "photo": "/profile-pics/paperplane.png",
+        "bio": "I am the style god."
+    },
+    {
+        "fullname": "Ramita",
+        "username": "bakingGod",
+        "email": "r@i.com",
+        "password": "12345678",
+        "photo": "/profile-pics/avocado.png",
+        "bio": "I am a baking god."
+    },
+    {
+        "fullname": "Justin",
+        "username": "lakersGod",
+        "email": "j@c.com",
+        "password": "12345678",
+        "photo": "/profile-pics/astronaut.png",
+        "bio": "I am a Lakers god."
+    },
+    {
+        "fullname": "Jamie",
+        "username": "catGod",
+        "email": "j@h.com",
+        "password": "12345678",
+        "photo": "/profile-pics/cat.png",
+        "bio": "I am the cat god."
+    }
+
+]

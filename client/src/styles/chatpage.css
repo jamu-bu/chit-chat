@@ -1,0 +1,52 @@
+/* #chat-page {
+    width: 500px;
+    margin: 10px auto;
+    height: 100vh;
+    text-align: center;
+}
+
+#convoBox {
+    padding: 20px;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column;
+}
+
+.senderTxt {
+    padding: 10px;
+    margin: 2px;
+    background-color: purple;
+    color: black;
+    border-radius: 15px;
+    width:fit-content;
+    align-self: flex-end;
+}
+
+.receiverTxt {
+    padding: 10px;
+    margin: 2px;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+    width:fit-content;
+    align-self: flex-start;
+}
+
+#chatForm {
+    margin: 10px auto;
+    text-align: center;
+}
+
+#chatForm input {
+    padding: 5px;
+    margin: 0 2px;
+} */
+
+body {
+    font-family: aristotle;
+    font-weight: bolder;
+}
+
+h1, h2 {
+    font-family: bubbleFont;
+}

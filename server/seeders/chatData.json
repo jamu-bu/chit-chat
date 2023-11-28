@@ -1,0 +1,16 @@
+[
+    {
+        "text": [
+            {
+                "sender": "65553860b8e59537cbba55ed",
+                "textContent": "Hey!"
+            },
+            {
+                "sender": "65553860b8e59537cbba55ec",
+                "textContent": "What's up?"
+            }
+        ],
+        "user1": "65553860b8e59537cbba55ec",
+        "user2": "65553860b8e59537cbba55ed"
+    }
+]
